@@ -56,7 +56,7 @@ Prefabをシーンに配置するだけで、すぐにアニメーション付�
 不具合報告・お問い合わせはこちらまでご連絡ください。
 
 **Splingbell Support**  
-Email: splingbell.helpdesk@gmail.com
+Email: splingbell.helpdesk@gmail.com  
 Website: https://splingbell.github.io
 
 ---
